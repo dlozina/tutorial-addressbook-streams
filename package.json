@@ -2,7 +2,7 @@
     "name": "macrometa-addressbook",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://macrometacorp.github.io/tutorial-addressbook-streams/",
+    "homepage": "https://dlozina.github.io/tutorial-addressbook-streams/",
     "dependencies": {
         "@emotion/react": "^11.7.1",
         "@emotion/styled": "^11.6.0",
